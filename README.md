@@ -36,13 +36,9 @@ To run the Streamlit app, use the following command:
 Extract information from Business Card Data and store them in database
 
 Steps involved in the application:
-
-      * **Upload & Extract**: Users can upload a business card image and extract information from it using OCR. 
+      *  **Upload and Extract**: Users can upload a business card image and extract information from it using OCR. 
                                easyOCR is used to read the text from the image and extract information.
-                               The extracted data is then stored in the MySQL database _(**business_card_data**)
-                               
-      * **Modify**: Users can modify the information of a specific business card stored in the database.
-      
+                               The extracted data is then stored in the MySQL database _(**business_card_data**)_
+      *  **Modify**: Users can modify the information of a specific business card stored in the database.
       *  **Delete**: Users can delete a specific business card from the database.
-      
       *  **View all Data**: Users can view all the stored business card information in the database.
