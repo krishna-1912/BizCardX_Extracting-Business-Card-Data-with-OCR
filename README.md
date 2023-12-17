@@ -38,3 +38,6 @@ To run the Streamlit app, use the following command:
       *  **Modify**: Users can modify the information of a specific business card stored in the database by selecting a specific card from dropdown.
       *  **Delete**: Users can delete a specific business card from the database by selecting a specific card from dropdown.
       *  **View all Data**: Users can view all the stored business card information in the database.
+
+## Video Recording
+https://github.com/krishna-1912/BizCardX_Extracting-Business-Card-Data-with-OCR/blob/main/EXtracting%20Business%20Card%20Data%20With%20OCR.mp4
